@@ -15,6 +15,9 @@ Tasked with aggregarating the data to showcase trends in school performance. The
 - Student Data (cchools_complete.CSV)
 - Schools Data (students_complete.CSV)
 - Family Education Rights Privacy Act (FERPA) - As a reference for protecting the data
+ 
+## Changes needed to be made to the data due to issues with 9th Grade Grading
+- Due to this we had to remove the scores for math and reading from our overall analysis for Thomas High School 
 
 ## Summary of findings
 - Reviewed 15 different High Schools within the district. Overall student count was 39,170
@@ -22,5 +25,3 @@ Tasked with aggregarating the data to showcase trends in school performance. The
 - Average Math Score was 78.9%
 - Average Reading score was 81.9%
 - Charter Schools had a lower student count but higher oveall passing % than District Schools
-- 
-- 
